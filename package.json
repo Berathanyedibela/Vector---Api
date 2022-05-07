@@ -1,0 +1,28 @@
+{
+  "name": "Vector",
+  "version": "0.1.0",
+  "description": "Vector Neural Assistant - Chatbot // Machine Learning - Deep Learning",
+  "main": "eva/collection.js",
+  "directories": {
+    "library": "library",
+    "utils": "utils",
+    "brain": "brain"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ber4tbey/LavanderPorjects"
+  },
+  "author": "Ber4tbey",
+  "license": "CC0 1.0 Universal",
+  "dependencies": {
+    "axios": "0.21.1"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/Ber4tbey/Eva/issues"
+  },
+  "homepage": "https://github.com/Ber4tbey/Eva#readme"
+}
